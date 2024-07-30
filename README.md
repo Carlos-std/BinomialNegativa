@@ -1,5 +1,5 @@
 Análise de Dados Usando a Distribuição Poisson
-Este projeto explora a aplicação de modelos de regressão Poisson para análise de dados de contagem, utilizando um conjunto de dados sobre corrupção e violações de trânsito em Nova York.
+Este projeto explora a aplicação de modelos de regressão Poisson para análise de dados de contagem, utilizando um conjunto de dados sobre corrupção e multas diplomáticas. A distribuição Poisson é utilizada para modelar a probabilidade de ocorrência de eventos discretos em intervalos de tempo ou espaço fixos. Este projeto abrange desde a criação de funções para calcular a distribuição Poisson até a implementação de modelos de regressão Poisson, testes de superdispersão e visualizações detalhadas dos resultados.
 
 Descrição do Projeto
 O objetivo deste projeto é demonstrar como a distribuição Poisson pode ser usada para modelar dados de contagem e prever ocorrências baseadas em variáveis preditoras. Além disso, o projeto inclui a visualização detalhada dos resultados e a verificação da adequação do modelo através de testes estatísticos.
